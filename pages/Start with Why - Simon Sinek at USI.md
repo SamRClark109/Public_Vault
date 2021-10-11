@@ -58,4 +58,7 @@ Status:: [[active🟢]]
 	- The difference between [[repeat business]] and [[loyalty]]
 		- [[Know, like and trust]]
 			- Make it personal
+	- The cyclical nature of trust, community, risk and struggle #seed🌰
+		- Min 31:00
+	-
 	-
