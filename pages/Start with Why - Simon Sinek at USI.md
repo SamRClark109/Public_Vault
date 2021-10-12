@@ -59,6 +59,5 @@ Status:: [[active🟢]]
 		- [[Know, like and trust]]
 			- Make it personal
 	- The cyclical nature of trust, community, risk and struggle #seed🌰
-		- Min 31:00
-	-
+		- {{youtube-timestamp 1865}}
 	-
