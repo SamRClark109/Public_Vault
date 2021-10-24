@@ -1,2 +1,4 @@
-- [[🏡 My Homepage]]
+- [[🪴 My Greenhouse]]
+- [[✅ My Agenda]]
+- [[🌳 My Mind Garden]]
 -
