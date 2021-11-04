@@ -10,10 +10,12 @@
 	  query-sort-desc:: true
 	-
 - # 🌱 Seedlings
+  collapsed:: true
 	- {{query [[seedling🌱]] }}
 	  query-table:: false
 	-
 - # 🌿 Buddings
+  collapsed:: true
 	- {{query [[budding🌿]]}}
 - # 🌳 Evergreens
   collapsed:: true
