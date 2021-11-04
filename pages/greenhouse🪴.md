@@ -4,4 +4,6 @@ When::
 tags::
 Source::
 Status::
-Alias::
+Alias:: [[🪴]]
+
+-
