@@ -4,6 +4,9 @@ When::
 tags::
 Source::
 Status::
+Alias:: [[🌿]]
 
+-
+-
 -
 -
