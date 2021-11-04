@@ -15,7 +15,7 @@ Status:: [[active🟢]]
 			  collapsed:: true
 				- LATER Screen share video of logseq navigation
 - # 🧭 Finding your way around
-	- This platform uses something called [[bi-directional linking]]. Basically, it is very similar to [[Wikipedia]]! Anything you see that is highlighted you can click on for more detail.
+	- This platform uses something called [[bi-directional linking]]. Basically, it is very similar to [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) ! Anything you see that is highlighted you can click on for more detail.
 	- The main place for starting your journey is in [[🌳 My Mind Garden]]. You can find this in my favourites pages to the left of this screen.
 	- Whenever you want to find your way back 🏡 you can simply click the home icon top right of your page.
 	- For more detail explore the following pages!
