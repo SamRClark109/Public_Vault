@@ -15,6 +15,7 @@
 	  query-table:: false
 	-
 - # 🌿 Buddings
+  collapsed:: true
 	- {{query [[budding🌿]]}}
 - # 🌳 Evergreens
   collapsed:: true
