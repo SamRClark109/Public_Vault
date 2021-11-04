@@ -1,3 +1,4 @@
-- {{query (or ([[LATER]] [[TODO]])) }}
+- {{query (or [[LATER]] [[TODO]])}}
+-
 -
 -
