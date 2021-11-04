@@ -2,4 +2,4 @@
 - [[✅ My Agenda]]
 - [[🌳 My Mind Garden]]
 - [[✏️ My Workbench]]
--
+- [[My Templates 🧱]]

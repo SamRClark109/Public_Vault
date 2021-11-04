@@ -1,2 +1,3 @@
-- {{query property [[template]]}}
+- {{query (property template)}}
+-
 -
