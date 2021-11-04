@@ -1,5 +1,8 @@
-- [[🪴 My Greenhouse]]
+- [[🏡 My Homepage]]
 - [[🌳 My Mind Garden]]
+- [[🪴 My Greenhouse]]
+-
+  ---
 - [[✏️ My Workbench]]
-- [[🧱 My Templates]]
 - [[✅ My Agenda]]
+- [[🧱 My Templates]]
