@@ -4,6 +4,7 @@ When::
 tags:: notes
 Source::
 Status::
-Alias:: 🌱
+Alias:: 🌱, [[seedling notes]]
 
+-
 -
