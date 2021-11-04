@@ -4,7 +4,8 @@ When::
 tags:: notes
 Source::
 Status::
-Alias:: [[🌳]]
+Alias:: [[🌳]], [[evergreen notes]]
 
+-
 -
 -

@@ -4,8 +4,9 @@ When::
 tags:: notes
 Source::
 Status::
-Alias:: [[🌿]]
+Alias:: [[🌿]], budding notes
 
+-
 -
 -
 -

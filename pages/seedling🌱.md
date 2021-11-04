@@ -1,7 +1,7 @@
-What::
+What:: [[🌳 My Mind Garden]] 
 Who::
 When::
-tags::
+tags:: notes
 Source::
 Status::
 Alias:: 🌱
