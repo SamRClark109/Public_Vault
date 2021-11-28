@@ -12,7 +12,6 @@ Status:: [[active🟢]]
 	- ## How am I doing this?
 		- I am doing this through using an app called [[Logseq]].
 			- This is a [[Personal Knowledge Management]] [[outliner]] app that enables me to connect different notes together in a [[knowledge graph]] to help discover relationships between different things and interests. Look below for a video on how to use this platform!
-			  collapsed:: true
 				- LATER Screen share video of logseq navigation
 - # 🧭 Finding your way around
 	- This platform uses something called [[bi-directional linking]]. Basically, it is very similar to [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) ! Anything you see that is highlighted you can click on for more detail.
